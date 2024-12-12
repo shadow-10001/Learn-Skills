@@ -1,3 +1,3 @@
 # Learn Skills
 
-- [syllabus](https://github.com/shaikhFaris/Learn-Skills/blob/main/Syllabus.md)
+- [syllabus](https://github.com/shadow-10001/Learn-Skills/blob/main/Syllabus.md)
